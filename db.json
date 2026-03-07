@@ -1,0 +1,9 @@
+{
+  "sellers": [
+    { "id": 1, "name": "Style and Fashion", "followers": 180000, "isLive": true },
+    { "id": 2, "name": "PCC Kurtis", "followers": 81000, "isLive": false },
+    { "id": 3, "name": "Priyankur Fashion Hub", "followers": 44000, "isLive": true },
+    { "id": 4, "name": "Inaaya's Closet", "followers": 31000, "isLive": false },
+    { "id": 5, "name": "Shop 24/7", "followers": 118000, "isLive": true }
+  ]
+}
